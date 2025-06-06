@@ -65,14 +65,16 @@ graph TD
 ![Simulação no Tinkercad](./imgs/simulação.png)
 
 ### Lista de Componentes
-| Qtd | Componente               | Especificações                  | Função                          |
-|-----|--------------------------|---------------------------------|---------------------------------|
-| 1   | Sensor HC-SR04           | Alcance 2cm-4m                 | Medir nível de água            |
-| 1   | Higrômetro               | Faixa 0-100%                   | Monitorar umidade do solo      |
-| 1   | Arduino Uno              | ATmega328P                     | Processamento central          |
-| 3   | LEDs (Verm/Amare/Verde)  | 5mm, 20mA                      | Indicar status                 |
-| 1   | Buzzer                   | 5V, 85dB                       | Alerta sonoro                  |
-| 1   | LCD 16x2 I2C             | Endereço 0x27                  | Exibir informações             |
+| Qtd | Componente               | Função                          |
+|-----|--------------------------|---------------------------------|
+| 1   | Sensor HC-SR04           | Medir nível de água            |
+| 1   | Higrômetro               | Monitorar umidade do solo      |
+| 1   | Arduino Uno              | Microcontolador                |
+| 3   | LEDs (Verm/Amare/Verde)  | Indicar status                 |
+| 1   | Buzzer                   | Alerta sonoro                  |
+| 1   | LCD 16x2 I2C             | Exibir informações             |
+| 1   | Botão                    | Simulador de pluviômetro - cada pulso equivale a 2mm      |
+   
 
 ### 📋 Fluxo de Operação
 1. Sensores coletam dados a cada 5s
