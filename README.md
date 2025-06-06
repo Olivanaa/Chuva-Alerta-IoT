@@ -108,7 +108,7 @@ graph TD
 
 ## 🎥 Vídeo Demonstrativo
 
-[YouTube](#)
+[YouTube](https://youtu.be/HERzUL_fe0k)
 
 ## 📊 Especificações Técnicas
 
