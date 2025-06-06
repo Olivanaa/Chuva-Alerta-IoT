@@ -92,7 +92,7 @@ graph TD
 ## 🔌 Simulação do Projeto
 
 ### Como testar no Tinkercad:
-1. Acesse o [projeto no Tinkercad](https://www.tinkercad.com/things/5xo0xr1HNxI-globalsolution/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=fqHWZnWm_ae3epCBqL5NN5QZMhLaMHNxAdBdw0qXNc0)
+1. Acesse o [projeto no Tinkercad](https://www.tinkercad.com/things/5xo0xr1HNxI-globalsolution?sharecode=tCowqLBeVExokEyz3WGyMYYNyjTtXARzz4a2c3ot0c0)
 2. Clique em "Copiar e Editar" para criar sua versão
 3. Experimente ajustar:
    - Controles de umidade
